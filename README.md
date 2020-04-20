@@ -1,3 +1,3 @@
-# Project 0
+# project0
 
-Web Programming with Python and JavaScript
+HTML and CSS Practice
