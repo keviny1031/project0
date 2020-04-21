@@ -30,6 +30,35 @@
 }
 .main h2 {
   font-weight: bold;
+  font-style: italic;
+}
+.main #Github {
+  color: darkmagenta;
+}
+.main #Email {
+  color: lightgreen;
+}
+.main img {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border: 3px solid black;
+}
+.main table {
+  margin-top: 20px;
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 50%;
+}
+.main th, .main td {
+  border: 1px solid black;
+  text-align: center;
+  padding: 5px;
+}
+.main th {
+  background-color: lightgray;
 }
 
 @media screen and (max-height: 450px) {
@@ -44,6 +73,19 @@
   .main {
     font-size: 14px;
   }
+}
+.personal, .academic {
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.academic {
+  color: darkred;
+}
+
+.personal {
+  color: darkblue;
 }
 
 /*# sourceMappingURL=style.css.map */

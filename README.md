@@ -1,3 +1,4 @@
 # project0
 
-HTML and CSS Practice
+about.html, contact.html, projects.html, resume.html are just web pages
+All CSS styling is contained in style.css and style.scss
